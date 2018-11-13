@@ -67,7 +67,7 @@ class list extends React.Component {
         window.location.reload();
 
     
-    }
+         }
     
    
 
